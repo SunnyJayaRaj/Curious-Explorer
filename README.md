@@ -1,4 +1,4 @@
-# 🌍 curious-explorer
+# 🌍 Curious-Explorer
 
 Document your adventures as you explore new territories in technology. Perfect for the naturally curious mind!
 
@@ -6,7 +6,7 @@ Document your adventures as you explore new territories in technology. Perfect f
 
 ## 👋 Welcome!
 
-Hello, and welcome to "curious-explorer" — my personal space to track, reflect on, and celebrate my journey into the world of tech. 
+Hello, and welcome to "Curious-Explorer" — my personal space to track, reflect on, and celebrate my journey into the world of tech. 
 I’m not a developer (yet!), and while I come from a partially technical background, I’m here to explore, learn, and grow — one step at a time.
 
 ---
@@ -40,7 +40,7 @@ I created this repository for a few reasons:
 
 ---
 
-## 🧡 A note to myself (and maybe you too)
+## 🧡 A note to myself & maybe to you as well
 
 > “Start where you are. Use what you have. Do what you can.” – Arthur Ashe
 
