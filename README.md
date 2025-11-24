@@ -67,7 +67,7 @@ You’ll find everything from:
 
 ## 🛠️ Tools I'm learning
 
-![Apigee](https://img.shields.io/badge/Google_Apigee-4285F4?style=flat&logo=google-cloud&logoColor=white) ![OpenAPI](https://img.shields.io/badge/OpenAPI_Specs-6BA539?style=flat&logo=openapi-initiative&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Security](https://img.shields.io/badge/Security-OAuth_2.0-blue?style=flat&logo=adguard&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Apigee](https://img.shields.io/badge/Google_Apigee-4285F4?style=flat&logo=google-cloud&logoColor=white) ![OpenAPI](https://img.shields.io/badge/OpenAPI_Specs-6BA539?style=flat&logo=openapi-initiative&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Security](https://img.shields.io/badge/Security-OAuth_2.0-blue?style=flat&logo=adguard&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
  
 ---
 
