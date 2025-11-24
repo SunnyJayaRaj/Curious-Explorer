@@ -1,12 +1,13 @@
 # 🛡️ What is an API Proxy?
 
-**Date:** Nov 24, 2025  
-**Mood:** 💡 Clarified
+**Date:** Nov 24, 2025  | **Mood:** 💡 Clarified
 
 ## The Concept
 Before today, I thought an API was just a URL you hit to get data. But in the enterprise world, you never let users talk directly to your backend server. That’s dangerous.
 
 Instead, you put a **Proxy** in the middle.
+
+<img width="819" height="531" alt="Screenshot 2025-11-24 at 2 25 48 PM" src="https://github.com/user-attachments/assets/69368c31-1e38-4ecb-82d9-e29888a394fb" />
 
 ## The Analogy: The Waiter 🍽️
 I like to think of an API Proxy like a **Waiter** in a restaurant.
@@ -37,6 +38,6 @@ In Apigee, we define this relationship using XML. Here is a basic `ProxyEndpoint
     </RouteRule>
 </ProxyEndpoint>
 ```
-**TL;DR**
 
+## TL;DR
 A Proxy is a facade. It decouples the `Consumer` from the `Service`, allowing me to change the backend without breaking the frontend app.
