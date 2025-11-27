@@ -1,7 +1,6 @@
 # 🔑 OAuth 2.0 Simplified
 
-**Date:** Nov 24, 2025  
-**Mood:** 🛡️ Secure
+**Date:** Nov 24, 2025 | **Mood:** 🛡️ Secure
 
 ## The Problem
 In the old days, if I wanted a shiny new app to access my Google Photos, I had to give that app my **Google Password**.
