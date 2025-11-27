@@ -1,9 +1,10 @@
 # 🔐 KVMs: Keeping Secrets Secret
 
-**Date:** Nov 27, 2025  | **Mood:** 🤫 Stealthy
+**Date:** Nov 27, 2025 | **Mood:** 🤫 Stealthy
 
 ## The Problem
 I need to connect to a backend database, and it requires a password.
+
 **Bad Idea:** Hardcoding the password in the XML file. ` <Password>Hunter2</Password> `.
 Why? Because anyone with access to the repo (or the Apigee UI) can read it.
 
@@ -22,7 +23,9 @@ The developer never sees the password. The GitHub repo never sees the password. 
 * **Encrypted:** Like the Safe Deposit Box. Good for passwords. Once written, **you cannot read it back** via UI; the proxy can only *use* it.
 
 ## How to use it?
-We use the `KeyValueMapOperations` policy to retrieve the data into a variable (see Flow Variables!).
+We use the `KeyValueMapOperations` policy.
+
+**Crucial Trick:** Notice the variable name starts with `private.`. This tells Apigee "Do not show this value in the Debug Tool."
 
 ```xml
 <KeyValueMapOperations mapIdentifier="SecretsVault" name="Get-Password">
