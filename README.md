@@ -1,74 +1,68 @@
 # 🌍 Curious-Explorer
 
-![Status](https://img.shields.io/badge/Status-Active_Learning-green?style=flat-square)
-![Docs](https://img.shields.io/badge/Focus-Documentation-blue?style=flat-square)
-![Maintainer](https://img.shields.io/badge/Maintainer-MaveRick-orange?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active_Learning-success?style=for-the-badge&logo=gitbook&logoColor=white)
+![Maintainer](https://img.shields.io/badge/Maintainer-MaveRick-orange?style=for-the-badge)
 
-> A place to document my adventures as I explore new territories in technology.  
-> Perfect for anyone who’s naturally curious and learning as they go.
+> **A digital field journal.** > Documenting my adventures as I explore new territories in technology. Perfect for anyone who’s naturally curious and learning as they go.
 
 ---
 
 ## 📌 Table of Contents
-- [Welcome](#-welcome)
-- [Purpose of this repository](#-purpose-of-this-repository)
-- [What’s inside](#-whats-inside)
-- [Why I’m doing this](#-why-im-doing-this)
-- [Tools I'm learning](#-tools-im-learning)
-- [A note to myself](#-a-note-to-myself)
-- [Let’s explore](#-lets-explore)
+- [👋 Welcome](#-welcome)
+- [🎯 Purpose](#-purpose-of-this-repository)
+- [📚 What’s Inside](#-whats-inside)
+- [🔗 Connected Repos](#-connected-ecosystem)
+- [🛠️ The Toolkit](#%EF%B8%8F-tools-im-learning)
+- [💡 A Note to Myself](#-a-note-to-myself)
 
 ---
 
 ## 👋 Welcome
-
 **Curious-Explorer** is my personal space to track, understand, and celebrate my journey into tech.  
-I’m not a developer yet, but I’m building my foundation one step at a time and learning by doing.
+I’m building my foundation one step at a time and learning by doing.
 
 ---
 
 ## 🎯 Purpose of this repository
-
-This repo acts as my digital journal.  
+This repo acts as my **Second Brain**.  
 Whenever I learn something—big or small—I write it down in simple words that make sense to me.
 
-You’ll find everything from:
-- 🐙 How Git & GitHub works
-- 💻 Basic programming concepts
-- ⌨️ Command-line tricks
-- ☁️ API Management concepts (Proxies, Flows, Policies)
-- 🛡️ API Security patterns (OAuth, API Keys)
-- 📝 Notes from videos, courses, and tutorials
-- 🔎 Random curiosities I bump into along the way
+**Topics I explore here:**
+* 🐙 **Git & GitHub:** Branching strategies, PRs, and commit hygiene.
+* ☁️ **API Management:** Proxies, Flows, Policies, and Gateway logic.
+* 🛡️ **Security:** OAuth 2.0 flows, JWT validation, and mTLS.
+* 💻 **CLI & Scripting:** Bash tricks and automation.
+* 📝 **Theory:** Notes from courses, documentation, and "Aha!" moments.
 
-**If it helps me understand tech, it goes here.**
+> **"If it helps me understand tech, it goes here."**
 
 ---
 
-## 📚 What’s inside
-
-- ✏️ **Beginner-friendly notes** on tools, concepts, and workflows
-- 🧠 **“Aha!” moments** when things finally make sense
-- 🗂️ **Organized learnings** from tutorials and real-world practice
-- 🧪 **Mini-projects & experiments** as I try out new ideas
-- 💭 **Reflections** on what felt easy, what didn’t, and how I got unstuck
-- 🔧 **Mistakes and fixes**—because they’re part of the process
-
----
-
-## 🌱 Why I’m doing this
-
-- To track my **progress**, no matter how small
-- To **understand deeply** by writing things in my own words
-- To **build confidence** in an industry that once felt overwhelming
-- To **stay curious**, consistent, and committed
+## 📚 What’s Inside
+| Section | Description |
+| :--- | :--- |
+| **📝 Notes** | Beginner-friendly breakdowns of complex tools. |
+| **🧠 Aha! Moments** | When things finally clicked (and how). |
+| **🔧 Troubleshooting** | Mistakes I made and exactly how I fixed them. |
+| **🧪 Experiments** | Mini-proof-of-concepts before they become real projects. |
 
 ---
 
-## 🛠️ Tools I'm learning
+## 🔗 Connected Ecosystem
+This repository is the *theory*. To see the *practice*, check out my lab:
 
-![Apigee](https://img.shields.io/badge/Google_Apigee-4285F4?style=flat&logo=google-cloud&logoColor=white) ![OpenAPI](https://img.shields.io/badge/OpenAPI_Specs-6BA539?style=flat&logo=openapi-initiative&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Security](https://img.shields.io/badge/Security-OAuth_2.0-blue?style=flat&logo=adguard&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
- 
+### [🧪 Apigee-Lab](https://github.com/SunnyJayaRaj/Apigee-Lab)
+My hands-on technical portfolio where I implement these concepts into real Enterprise API Proxies (JWT, Caching, FaultRules).
+
+---
+
+## 🛠️ Tools I'm Learning
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Apigee](https://img.shields.io/badge/Apigee-MX-red?style=flat-square)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapi-initiative&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
 ---
 
 ## 🧡 A note to myself  
@@ -80,15 +74,14 @@ And to my future self: look how far you’ve come 👣
 
 ---
 
-## 🚀 Let’s explore
-
+## 🚀 Let’s Explore
 Thanks for stopping by.  
-Let’s keep learning, keep building, and most importantly—keep exploring 🌟
+Let’s keep learning, keep building, and most importantly—**keep exploring** 🌟
 
 <br>
 
 <div align="center">
-  <a href="https://sunnyjayaraj.github.io">
-    <img src="https://img.shields.io/badge/Return_to-Portfolio-EA4335?style=for-the-badge&logo=github" alt="Return to Portfolio">
+  <a href="https://github.com/SunnyJayaRaj">
+    <img src="https://img.shields.io/badge/Return_to-Profile-EA4335?style=for-the-badge&logo=github&logoColor=white" alt="Return to Profile">
   </a>
 </div>
