@@ -7,7 +7,7 @@ API Keys are like **House Keys**. If I give you my key, you can enter my house. 
 
 **JWT (JSON Web Token)** is smarter. It’s like a **Stamped Passport**.
 
-## The Visual Structure
+## The Anatomy of a JWT [Visual Structure]
 A JWT is just a long string of text, but it has 3 parts separated by dots (`.`).
 
 ```mermaid
@@ -35,9 +35,6 @@ flowchart LR
     style Structure fill:#757575
     
 ```
-## The Anatomy of a JWT
-A JWT is just a long string of text, but it has 3 parts separated by dots (`.`):
-
 ### 1. The Header (Red)
 * **What it is:** Metadata.
 * **Content:** "I am a JWT, and I am signed using HS256."
