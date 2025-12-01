@@ -3,17 +3,18 @@
 ![Status](https://img.shields.io/badge/Status-Active_Learning-success?style=for-the-badge&logo=gitbook&logoColor=white)
 ![Maintainer](https://img.shields.io/badge/Maintainer-MaveRick-orange?style=for-the-badge)
 
-> **A digital field journal.** > Documenting my adventures as I explore new territories in technology. Perfect for anyone who’s naturally curious and learning as they go.
+> **A digital field journal.**
+> Documenting my adventures as I explore new territories in technology. Perfect for anyone who’s naturally curious and learning as they go.
 
 ---
 
 ## 📌 Table of Contents
 - [👋 Welcome](#-welcome)
 - [🎯 Purpose](#-purpose-of-this-repository)
-- [📚 What’s Inside](#-whats-inside)
+- [🗂️ Concept Index](#%EF%B8%8F-concept-index)
+- [🐛 Bug Log](#-bug-log)
 - [🔗 Connected Repos](#-connected-ecosystem)
 - [🛠️ The Toolkit](#%EF%B8%8F-tools-im-learning)
-- [💡 A Note to Myself](#-a-note-to-myself)
 
 ---
 
@@ -38,13 +39,26 @@ Whenever I learn something—big or small—I write it down in simple words that
 
 ---
 
-## 📚 What’s Inside
-| Section | Description |
-| :--- | :--- |
-| **📝 Notes** | Beginner-friendly breakdowns of complex tools. |
-| **🧠 Aha! Moments** | When things finally clicked (and how). |
-| **🔧 Troubleshooting** | Mistakes I made and exactly how I fixed them. |
-| **🧪 Experiments** | Mini-proof-of-concepts before they become real projects. |
+## 🗂️ Concept Index
+*Breakdowns of core engineering concepts using simple analogies.*
+
+| Domain | Topic | The Analogy |
+| :--- | :--- | :--- |
+| **🛡️ Fundamentals** | **[What is an API Proxy?](./concepts/what-is-a-proxy.md)** | The Waiter vs. The Kitchen. |
+| **🧠 Logic** | **[Flow Variables](./concepts/flow-variables-explained.md)** | Sticky notes for the request. |
+| **🛑 Traffic** | **[Spike Arrest vs. Quota](./concepts/spike-arrest-vs-quota.md)** | The Bouncer vs. The Bartender. |
+| **🔑 Security** | **[OAuth 2.0 Simplified](./concepts/oauth2-simplified.md)** | The Hotel Key Card. |
+| **🔐 Security** | **[JWTs Explained](./concepts/jwt-explained.md)** | The Passport of the Internet. |
+| **🤫 Secrets** | **[KVM (Key Value Maps)](./concepts/kvm-secrets.md)** | The Bank Safety Deposit Box. |
+
+---
+
+## 🐛 Bug Log
+*Real-world errors I faced and exactly how I fixed them.*
+
+| Error Type | Issue | Solution |
+| :--- | :--- | :--- |
+| **☁️ Cloud DNS** | **[Site Can't Be Reached](./troubleshooting/cloud-dns-error.md)** | Handling `nip.io` load balancer hostnames. |
 
 ---
 
