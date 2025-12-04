@@ -59,7 +59,7 @@ Whenever I learn something—big or small—I write it down in simple words that
 | Error Type | Issue | Solution |
 | :--- | :--- | :--- |
 | **☁️ Cloud DNS** | **[Site Can't Be Reached](./troubleshooting/cloud-dns-error.md)** | Handling `nip.io` load balancer hostnames. |
-
+| **📦 Deployment** | **[Bundle Name Mismatch](./troubleshooting/bundle-name-mismatch.md)** | XML Name vs. Filename strictness. |
 ---
 
 ## 🔗 Connected Ecosystem
