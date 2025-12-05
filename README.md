@@ -50,7 +50,7 @@ Whenever I learn something—big or small—I write it down in simple words that
 | **🔑 Security** | **[OAuth 2.0 Simplified](./concepts/oauth2-simplified.md)** | The Hotel Key Card. |
 | **🔐 Security** | **[JWTs Explained](./concepts/jwt-explained.md)** | The Passport of the Internet. |
 | **🤫 Secrets** | **[KVM (Key Value Maps)](./concepts/kvm-secrets.md)** | The Bank Safety Deposit Box. |
-
+| **📡 Orchestration** | **[Service Callouts](./concepts/service-callout.md)** | The Main Flow vs. The Side Quest. |
 ---
 
 ## 🐛 Bug Log
@@ -60,6 +60,7 @@ Whenever I learn something—big or small—I write it down in simple words that
 | :--- | :--- | :--- |
 | **☁️ Cloud DNS** | **[Site Can't Be Reached](./troubleshooting/cloud-dns-error.md)** | Handling `nip.io` load balancer hostnames. |
 | **📦 Deployment** | **[Bundle Name Mismatch](./troubleshooting/bundle-name-mismatch.md)** | XML Name vs. Filename strictness. |
+| **💥 Coding** | **[Unexpected token <](./troubleshooting/json-parsing-xml.md)** | Trying to parse XML as JSON. |
 ---
 
 ## 🔗 Connected Ecosystem
