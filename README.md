@@ -51,6 +51,7 @@ Whenever I learn something—big or small—I write it down in simple words that
 | **🔐 Security** | **[JWTs Explained](./concepts/jwt-explained.md)** | The Passport of the Internet. |
 | **🤫 Secrets** | **[KVM (Key Value Maps)](./concepts/kvm-secrets.md)** | The Bank Safety Deposit Box. |
 | **📡 Orchestration** | **[Service Callouts](./concepts/service-callout.md)** | The Main Flow vs. The Side Quest. |
+| **🤖 Automation** | **[The Quality Gate](./concepts/ci-cd-quality-gate.md)** | Why we use Robots to check our code. |
 ---
 
 ## 🐛 Bug Log
@@ -61,6 +62,7 @@ Whenever I learn something—big or small—I write it down in simple words that
 | **☁️ Cloud DNS** | **[Site Can't Be Reached](./troubleshooting/cloud-dns-error.md)** | Handling `nip.io` load balancer hostnames. |
 | **📦 Deployment** | **[Bundle Name Mismatch](./troubleshooting/bundle-name-mismatch.md)** | XML Name vs. Filename strictness. |
 | **💥 Coding** | **[Unexpected token <](./troubleshooting/json-parsing-xml.md)** | Trying to parse XML as JSON. |
+| **⚙️ DevOps** | **[Action Deprecation](./troubleshooting/github-actions-deprecation.md)** | Fixing outdated GitHub Action versions. |
 ---
 
 ## 🔗 Connected Ecosystem
