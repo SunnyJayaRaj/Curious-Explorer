@@ -143,7 +143,7 @@ One lesson has stayed with me:
 
 > **Apigee validates both XML syntax and the relationships between proxy components.**
 
-A deployment bundle is more than a collection of files—it is a connected configuration where names and references must remain consistent.
+A deployment bundle is more than a collection of files. It is a connected configuration where names and references must remain consistent.
 
 Always verify object names before packaging and deploying a proxy.
 

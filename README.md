@@ -19,14 +19,14 @@
 ---
 
 ## 👋 Welcome
-**Curious-Explorer** is my personal space to track, understand, and celebrate my journey into tech.  
+**Curious-Explorer** is my personal space to track, understand, and celebrate what I'm learning in tech.  
 I’m building my foundation one step at a time and learning by doing.
 
 ---
 
 ## 🎯 Purpose of this repository
 This repo acts as my **Second Brain**.  
-Whenever I learn something—big or small—I write it down in simple words that make sense to me.
+Whenever I learn something, big or small, I write it down in simple words that make sense to me.
 
 **Topics I explore here:**
 * 🐙 **Git & GitHub:** Branching strategies, PRs, and commit hygiene.
@@ -113,9 +113,9 @@ My hands-on technical portfolio where I implement these concepts into real Enter
 ---
 
 ## 🧡 A note to myself  
-> *“Start where you are. Use what you have. Do what you can.”* — Arthur Ashe
+> *“Start where you are. Use what you have. Do what you can.”* (Arthur Ashe)
 
-This repo is proof that you don’t need to be an expert to start documenting your journey.  
+This repo is proof that you don’t need to be an expert to start writing things down.  
 If you’re new to tech too: welcome, you’re in good company.  
 And to my future self: look how far you’ve come 👣
 
@@ -123,7 +123,7 @@ And to my future self: look how far you’ve come 👣
 
 ## 🚀 Let’s Explore
 Thanks for stopping by.  
-Let’s keep learning, keep building, and most importantly—**keep exploring** 🌟
+Let’s keep learning, keep building, and most importantly, **keep exploring** 🌟
 
 <br>
 

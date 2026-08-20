@@ -107,7 +107,7 @@ DNS lookup failed.
 
 This hostname correctly resolved to the Apigee load balancer.
 
-The proxy had been working all along—I was simply using the wrong hostname.
+The proxy had been working all along. I was simply using the wrong hostname.
 
 ---
 
@@ -153,7 +153,7 @@ Always verify the network path before debugging application logic.
 
 My API proxy deployed successfully, but the browser returned `ERR_NAME_NOT_RESOLVED`.
 
-The issue wasn't the proxy—it was DNS.
+The issue wasn't the proxy. It was DNS.
 
 I was using an incorrect hostname.
 
