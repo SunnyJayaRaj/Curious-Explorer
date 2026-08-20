@@ -3,8 +3,8 @@
 ![Status](https://img.shields.io/badge/Status-Active_Learning-success?style=for-the-badge&logo=gitbook&logoColor=white)
 ![Maintainer](https://img.shields.io/badge/Maintainer-MaveRick-orange?style=for-the-badge)
 
-> **A digital field journal.**
-> Documenting my adventures as I explore new territories in technology. Perfect for anyone who’s naturally curious and learning as they go.
+> **A digital field journal.**  
+> Notes on what I'm learning in tech, written in plain words as I go.
 
 ---
 
